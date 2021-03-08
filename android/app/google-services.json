@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "427171199182",
+    "project_id": "quy2-3579c",
+    "storage_bucket": "quy2-3579c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427171199182:android:948824047bd9e7d830b89f",
+        "android_client_info": {
+          "package_name": "app.qyu.grub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqzsW_3d4IwCnvVF6acJ7vWOYrvg9cn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427171199182:android:1b8ef964bd57678330b89f",
+        "android_client_info": {
+          "package_name": "app.qyu.grub.qyuclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqzsW_3d4IwCnvVF6acJ7vWOYrvg9cn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427171199182:android:6f90ab5ed2eae5b630b89f",
+        "android_client_info": {
+          "package_name": "grub24.co.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427171199182-amvil3f5tl8hgchcllv2okn5vq088sri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grub24.co.flutter_app",
+            "certificate_hash": "749c1d53c9c925c8e1123deaccffa592f13b734a"
+          }
+        },
+        {
+          "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqzsW_3d4IwCnvVF6acJ7vWOYrvg9cn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427171199182-t05807h2pmckfvjvme65aln9e8t4pd3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
